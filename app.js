@@ -1,0 +1,3 @@
+Hellogreeter.sayhello();
+
+Byegreeter.sayGoodbye();
